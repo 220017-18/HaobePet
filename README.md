@@ -1,7 +1,7 @@
 # 🌌 HaobePet (豪比/菲比桌宠)
 
 <p align="center">
-  <img src="resources/icon.png" width="128" height="128" alt="HaobiPet Logo">
+  <img src="icon.png" width="128" height="128" alt="HaobiPet Logo">
 </p>
 
 <p align="center">
